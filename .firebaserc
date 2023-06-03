@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "food-selling-page",
+    "deploying": "food-selling-page"
+  },
+  "targets": {},
+  "etags": {}
+}
